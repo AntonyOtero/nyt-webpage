@@ -56,7 +56,7 @@ git clone https://github.com/elberthcorniell/Youtube-Clone.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/AntonyOtero/nyt-webpage/issues).
 
 ## Show your support
 
