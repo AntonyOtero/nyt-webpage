@@ -24,6 +24,12 @@ nav a {
   text-decoration: none;
 }
 
+article {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
 .logo-container {
   display: flex;
   align-items: center;
@@ -38,4 +44,107 @@ nav a {
   border: none;
   border: 1px solid #494949;
   border-radius: 3px;
+}
+
+.article-image {
+  width: 100%;
+  max-width: 945px;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.article-header h1 {
+  width: 600px;
+  margin: auto;
+  padding: 40px;
+}
+
+.article-image img {
+  width: 100%;
+}
+
+.article-image p  {
+  margin: 0;
+  font-size: 0.9em;
+  color: #666666;
+}
+
+.article-image span  {
+  color: #888888;
+}
+
+.article-actions {
+  display: flex;
+  flex-direction: row;
+}
+
+.social {
+  background-color: #eeeeee;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.social:hover {
+  background-color: transparent;
+  border: 1px solid #eeeeee;
+}
+
+.social-options {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 5px;
+  font-size: 1.2em;
+}
+
+.date-and-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date {
+  font-size: 13px;
+  margin: 10px 0 0 0;
+}
+
+.article-body {
+  font-size: 20px;
+  color: #333333;
+  line-height: 28px;
+}
+
+.article-middle-data {
+  width: 720px;
+  margin-left: -60px;
+}
+
+.theory-grid {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 50% 50%;
+  background-image: url('https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-720.png');
+  background-size: contain;
+}
+
+.card {
+  grid-row: span 1;
+  grid-column: span 1;
+  padding-right: 20px;
+  margin-top: 120px;
+}
+
+.card p {
+  font-size: 13px;
+  line-height: 18px;
+}
+
+.card span {
+  font-weight: bold;
 }
