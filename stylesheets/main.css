@@ -80,10 +80,6 @@ article {
   padding: 80px 40px;
 }
 
-aside {
-  max-width: 210px;
-}
-
 aside img {
   margin-right: 10px;
   width: 75px;
@@ -217,6 +213,7 @@ aside a {
 
 aside {
   margin: 1000px 20px 0 20px;
+  max-width: 210px;
 }
 
 aside h3 {
