@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# New York Times Article
 
 > One paragraph statement about the project.
 
@@ -10,50 +10,47 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/AntonyOtero/nyt-webpage/webpage-dev/index.html)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Live Server plugin for Visual Studio Code 
+
 ### Setup
 
-### Install
+1- Clone the repository
+```
+git clone https://github.com/elberthcorniell/Youtube-Clone.git
+```
 
-### Usage
+2- Open the folder on VS Code, right click the index.html file and click on "Open With Live Server"
 
-### Run tests
-
-### Deployment
-
+3- Everything should be running by now. 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Antony Otero**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@AntonyOtero](https://github.com/AntonyOtero)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
-👤 **Author2**
+👤 **Elbert Corniell**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@elberthcorniell](https://github.com/elberthcorniell)
+- Twitter: [@elberthcorniell](https://twitter.com/elberthcorniell)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elbert-corniell-989183159/)
 
 ## 🤝 Contributing
 
@@ -73,4 +70,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](./LICENCE.md) licensed.
