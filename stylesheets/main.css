@@ -75,6 +75,10 @@ article {
   padding: 80px 40px;
 }
 
+aside {
+  max-width: 210px;
+}
+
 aside img {
   margin-right: 10px;
   width: 75px;
