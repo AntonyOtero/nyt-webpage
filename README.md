@@ -2,7 +2,7 @@
 
 # New York Times Article
 
-> One paragraph statement about the project.
+> This project required us to utilize many different CSS techniques to get it looking similar to the original. The article was pretty straight-forward but was a bit tricky when it came to the images that were wider than the article text. The footer was more time-consuming as it required us to use CSS Grid and try out different configurations. Overall it was a good learning experience and pushed us to use techniques that we hadn't tried before.
 
 ![screenshot](./app_screenshot.png)
 
@@ -43,8 +43,8 @@ git clone https://github.com/elberthcorniell/Youtube-Clone.git
 👤 **Antony Otero**
 
 - GitHub: [@AntonyOtero](https://github.com/AntonyOtero)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Twitter: [@AntonyOtero](https://twitter.com/AntonyOtero)
+- LinkedIn: [antonyotero](https://www.linkedin.com/in/antonyotero/)
 
 👤 **Elbert Corniell**
 
@@ -64,10 +64,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [@microverseinc](https://github.com/microverseinc)
 
 ## 📝 License
 
-This project is [MIT](./LICENCE.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
