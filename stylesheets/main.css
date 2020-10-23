@@ -42,7 +42,7 @@ article {
   align-items: center;
 }
 
-.logo-container {
+.logo-container a {
   overflow-x: hidden;
 }
 
