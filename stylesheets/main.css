@@ -1,6 +1,6 @@
 header {
   position: fixed;
-  width: 100%;
+  width: calc(100% - 30px);
   padding: 5px 15px;
   display: flex;
   justify-content: space-between;
@@ -63,7 +63,7 @@ article {
 .article-header h1 {
   width: 600px;
   margin: auto;
-  padding: 40px;
+  padding: 80px 40px;
 }
 
 .article-image img {
