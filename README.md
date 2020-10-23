@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/AntonyOtero/nyt-webpage/webpage-dev/index.html)
+[Live Demo Link](https://antonyotero.github.io/nyt-webpage/)
 
 
 ## Getting Started
