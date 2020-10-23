@@ -42,6 +42,10 @@ article {
   align-items: center;
 }
 
+.logo-container {
+  overflow-x: hidden;
+}
+
 .btn-primary {
   padding: 10px 15px;
   font-weight: bold;
