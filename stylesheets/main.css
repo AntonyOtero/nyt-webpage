@@ -1,3 +1,8 @@
+
+body {
+  overflow-x: hidden;
+}
+
 iframe {
   border: none;
 }
@@ -42,6 +47,7 @@ article {
   align-items: center;
 }
 
+<<<<<<< HEAD
 aside a {
   color: #222;
   text-decoration: none;
@@ -51,6 +57,8 @@ aside a {
   overflow-x: hidden;
 }
 
+=======
+>>>>>>> 408c7b58e4885203e9bd6413c6bde11f88cfee0a
 .btn-primary {
   padding: 10px 15px;
   font-weight: bold;
